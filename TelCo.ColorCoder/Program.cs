@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Text;
 using TelCo.ColorCoder.SubModule;
 using static TelCo.ColorCoder.SubModule.ColorCode;
+using static TelCo.ColorCoder.SubModule.ColorPair;
 
 namespace TelCo.ColorCoder
 {
